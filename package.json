@@ -1,0 +1,23 @@
+{
+  "name": "enum_tsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmansaeed101/Enum_Tsc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmansaeed101/Enum_Tsc/issues"
+  },
+  "homepage": "https://github.com/salmansaeed101/Enum_Tsc#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.13"
+  }
+}
